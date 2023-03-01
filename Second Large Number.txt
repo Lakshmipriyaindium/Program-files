@@ -1,0 +1,14 @@
+FIND SECOND LARGEST NUMBER
+ALORITHM
+STEP 1:
+Declare variables Size,Input,i,j
+STEP 2:
+Get Size from user.
+STEP 3:
+Start loop .Get input from user upto declare of size.
+STEP 4:
+Start loop. Arrange numbers in descending order.
+STEP 5:
+End Loop
+STEP 6:
+Print the second largest number by using an index number.
